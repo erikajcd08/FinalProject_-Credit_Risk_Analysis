@@ -17,3 +17,6 @@ __pycache__/
 
 # Variables de entorno
 .env
+
+# Variables de entorno con credenciales
+.env
