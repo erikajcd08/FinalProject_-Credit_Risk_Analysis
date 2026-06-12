@@ -129,5 +129,5 @@ El historial de retrasos y el nivel de utilización del crédito son los factore
 
 ### Autora
 **Erika Juliet Campo Diaz** — DAFT2026 · Ironhack Remote ES
-
+https://canva.link/ydofoubpo36vxsk
 ---
