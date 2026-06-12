@@ -94,7 +94,7 @@ El historial de retrasos y el nivel de utilización del crédito son los factore
 ---
 ---
 
-### 📸 Capturas del proyecto
+### Capturas del proyecto
 
 **Dashboard Power BI:**
 ---
@@ -117,11 +117,13 @@ El historial de retrasos y el nivel de utilización del crédito son los factore
 ### Mejoras futuras
 
 - Renombrar columnas con formato snake_case completo para mejorar legibilidad
+  (e.g. `revolvingutilizationofunsecuredlines` → `revolving_utilization_of_unsecured_lines`)
 - Probar modelos más avanzados como XGBoost o redes neuronales
 - Implementar técnicas avanzadas de feature selection con PCA
 - Desplegar el modelo en una aplicación web
-- Enriquecer el dataset con datos reales del Banco de España
 - Explorar análisis de series temporales para detectar patrones de impago
+- Integrar datos actualizados del Banco de España para adaptar el modelo al mercado crediticio español al día.
+- Reentrenar los modelos con datos más recientes para mejorar la generalización
 
 ---
 
