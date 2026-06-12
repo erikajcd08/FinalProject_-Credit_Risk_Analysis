@@ -92,6 +92,27 @@ FinalProject_-Credit_Risk_Analysis/
 **Conclusión de negocio:**
 El historial de retrasos y el nivel de utilización del crédito son los factores más determinantes para predecir si un cliente tendrá problemas de pago.
 ---
+---
+
+### 📸 Capturas del proyecto
+
+**Dashboard Power BI:**
+---
+
+---
+
+### Capturas del proyecto
+
+**Dashboard Power BI:**
+
+![Dashboard](reports/figures/dashboard.png)
+
+**Curva ROC:**
+![Curva ROC](reports/figures/roc_curve.png)
+
+**Feature Importance:**
+![Feature Importance](reports/figures/feature_importance.png)
+
 
 ### Mejoras futuras
 
